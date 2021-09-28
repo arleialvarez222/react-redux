@@ -1,0 +1,8 @@
+body {
+  background-color: #e9eaec !important;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
